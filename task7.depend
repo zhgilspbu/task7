@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1621344921 source:c:\users\st086873\documents\task7\main.cpp
+	<iostream>
+	<cmath>
+	"queue.h"
+	<cstdlib>
+
+1621343262 c:\users\st086873\documents\task7\queue.h
+	<iostream>
+
